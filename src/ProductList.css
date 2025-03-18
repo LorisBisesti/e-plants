@@ -74,6 +74,12 @@ body {
     gap: 20px;
 }
 
+.title-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px
+}
+
 /* Pseudo-classes - Hover effect on product button */
 .product-card:hover {
     transform: scale(1.05);
