@@ -278,7 +278,7 @@ function ProductList({ onHomeClick }) {
                         <img src="https://png.pngtree.com/png-vector/20221109/ourlarge/pngtree-green-sprout-leaf-logo-design-png-image_6436708.png" alt="" />
                         <a href="/" onClick={(e) => handleHomeClick(e)}>
                             <div>
-                                <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
+                                <h3 style={{ color: 'white' }}> E-Plants</h3>
                                 <i style={{ color: 'white' }}>Where Green Meets Serenity</i>
                             </div>
                         </a>

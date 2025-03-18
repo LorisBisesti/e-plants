@@ -5,7 +5,7 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
+      <p className="about-us-description">Welcome to E-plants, where green meets serenity!</p>
       <p className="about-us-content">
       At Paradise Nursery, we bring nature closer to you with a wide range of high-quality plants. Whether you're a seasoned gardener or just starting, our mission is to help you create a greener, healthier space. Explore our collection and let us help you find the perfect plant for your home or office.
 
